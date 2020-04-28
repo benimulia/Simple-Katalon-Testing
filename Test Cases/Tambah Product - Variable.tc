@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test case ideal untuk menyimpan produk</description>
+   <name>Tambah Product - Variable</name>
+   <tag>Create</tag>
+   <comment></comment>
+   <testCaseGuid>887ab27b-14ed-4acf-b172-4947f87826c2</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0451c38a-435d-4d68-b36c-10ec88c818ee</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>ad16b07e-f3db-4db5-a014-935e41b24bb8</id>
+      <masked>false</masked>
+      <name>price</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9480f261-24ad-422c-b3d5-d9e52d8ea4aa</id>
+      <masked>false</masked>
+      <name>description</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3d09e9d9-7080-431f-9451-7403199db3d5</id>
+      <masked>false</masked>
+      <name>expired</name>
+   </variable>
+</TestCaseEntity>
